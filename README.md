@@ -33,9 +33,6 @@
   <a href="https://adishiv9494.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-  <a href="https://leetcode.com/u/Adishiv9494/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
-  </a>
 </div>
 
 <hr/>
@@ -43,40 +40,38 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <h3>💻 Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,java,python,c,cpp" /><br><br>
-    <h3>🌐 Frontend Development</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,materialui" /><br><br>
-    <h3>🔧 Backend Development</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br><br>
-    <h3>🛠️ Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,pycharm,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,python,c,cpp,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,aws,docker,firebase" />
 </div>
+
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-  <!-- GitHub Stats Cards -->
-  <div align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="Adishiv9494's GitHub stats" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Adishiv9494&theme=radical&hide_border=true" alt="Adishiv9494's streak stats" />
-  </div>
+  <!-- Working Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adishiv9494/Adishiv9494/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adishiv9494/Adishiv9494/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adishiv9494/Adishiv9494/output/github-contribution-grid-snake.svg" />
+  </picture>
   
-  <!-- Top Languages -->
-  <div align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adishiv9494&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" alt="Top Languages" />
-  </div>
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adishiv9494&theme=react-dark&bg_color=20232a&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
-  
-  <!-- Snake Animation -->
-  <h2>🐍 Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/Adishiv9494/Adishiv9494/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <br/><br/><br/>
 </div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Adishiv9494&theme=radical&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adishiv9494&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" alt="top langs" />
+</div>
+
+<br/><br/>
 
 <hr/>
 
@@ -89,15 +84,15 @@
 <br/>
 <hr/>
 
-<h2 align="center">📈 Weekly Development Breakdown</h2>
-<br>
 <div align="center">
-  
-  <!--START_SECTION:waka-->
-  
-  No activity tracked
-  </br>
-<br>
-<div align="center"> <h3>📫 Connect with me:</h3> <p> <a href="https://linkedin.com/in/aditya-singh-671a592b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://medium.com/@yourusername" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> </p> </div>
-<div align="center"> <img src="https://github.com/Adishiv9494/Adishiv9494/raw/output/github-contribution-grid-snake.gif" alt="Contributions" width="100%" /> </div>
-</br>
+  <h2>📊 Activity Graph</h2>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adishiv9494&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="activity graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>💝 Support Me</h3>
+  <p>If you like my work, consider giving it a ⭐!</p>
+</div>
