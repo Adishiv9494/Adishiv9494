@@ -143,8 +143,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <!-- GitHub Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Adishiv9494/Adishiv9494/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Adishiv9494/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
