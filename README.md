@@ -12,8 +12,7 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+World+👋;I'm+Aditya+Singh;     
-    Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+World+👋;I'm+Aditya+Singh,Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
