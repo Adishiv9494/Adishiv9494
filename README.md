@@ -96,12 +96,12 @@
 
 </div>
 
-## 📈 My Contributions
+<!--## 📈 My Contributions
 
 <div align="center">
   <!-- Snake Animation (Requires GitHub Action setup) -->
-  <img src="raw.githubusercontent.com<Adishiv9494>/<USERNAME>/output/github-contribution-grid-snake.svg" alt="Snake animation that eats GitHub contributions" />
-</div>
+ <!-- <img src="raw.githubusercontent.com<Adishiv9494>/<USERNAME>/output/github-contribution-grid-snake.svg" alt="Snake animation that eats GitHub contributions" />
+</div>-->
 
 ## 📂 Featured Projects
 
