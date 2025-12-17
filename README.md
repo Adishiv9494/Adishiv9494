@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
 
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Adishiv9494&theme=radical&hide_border=true" alt="GitHub Streak" />
+ <!-- <img src="https://streak-stats.demolab.com?user=Adishiv9494&theme=radical&hide_border=true" alt="GitHub Streak" />-->
 
   <!-- GitHub Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adishiv9494&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
@@ -55,11 +55,11 @@
   <!-- GitHub Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adishiv9494&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
-  <h3>🏆 GitHub Trophies</h3>
-  <!-- GitHub Trophy -->
+  <!--<h3>🏆 GitHub Trophies</h3>
+  <!-- GitHub Trophy>
   <img src="https://github-profile-trophy.vercel.app/?username=Adishiv9494&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 
-</div>
+</div>-->
 
 ## 🛠️ Tech Stack
 
