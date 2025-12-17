@@ -32,9 +32,9 @@
 *   **Name:** Aditya Singh
 *   **From:** India 🇮🇳
 *   **Role:** Full-Stack Developer
-*   **Current Focus:** E-commerce Marketplace
-*   **Learning:** Docker, Kubernetes, AWS, Supabase
-*   **Expertise:** MERN Stack, Firebase, Java, JavaScript
+*   **Current Focus:** Airtificial Intelligence
+*   **Learning:** Python, Pandas, Numpy, AI/ML
+*   **Expertise:** MERN Stack, DSA, Java, JavaScript
 *   **Hobbies:** Coding, Open Source, Problem Solving
 </div>
 
