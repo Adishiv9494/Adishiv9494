@@ -1,8 +1,6 @@
 <!-- Header Section -->
 <div align="center">
   
-  ![GitHub Header](https://github.com/Adishiv9494/Adishiv9494/blob/main/assets/github-header-image.png?raw=true)
-  
   # Hi there, I'm Aditya Singh! 👋
   
   <p align="center">
@@ -31,7 +29,7 @@
 
 <div align="center">
   
-yaml
+
 name: Aditya Singh
 from: India 🇮🇳
 role: Full-Stack Developer
@@ -111,14 +109,11 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoC
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black
 
 </div>
 <div align="center">
 ⭐️ Support My Work
 If you like my projects, consider giving them a star! ⭐️
-
-https://komarev.com/ghpvc/?username=Adishiv9494&color=blueviolet&style=flat
 
 Thanks for visiting my profile! 😄
 
