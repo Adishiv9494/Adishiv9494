@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=65&animation=twinkling&desc=Full-Stack%20Developer&descSize=20&descAlignY=85" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=65&animation=twinkling&desc=Full-Stack%40Developer&descSize=20&descAlignY=85" alt="Header" />
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
