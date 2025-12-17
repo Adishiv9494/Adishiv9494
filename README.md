@@ -1,35 +1,34 @@
 <!-- 
   ======================================================================
-  MODERN GITHUB PROFILE README
-  Optimized for perfect display on GitHub
+  MODERN GITHUB PROFILE README - COMPLETE FIXED VERSION
   ======================================================================
 -->
 
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=50&animation=twinkling&desc=Full-Stack%20Developer&descSize=20&descAlignY=90" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Aditya%20Singh&fontSize=50&animation=twinkling&desc=Full-Stack%20Developer&descSize=20" alt="Header" />
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+World+👋;I'm+Aditya+Singh,Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7B68EE&center=true&width=600&lines=Hello+World+👋;I'm+Aditya+Singh;Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/Adishiv9494">
+  <a href="https://github.com/Adishiv9494" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-singh-671a592b6">
+  <a href="https://www.linkedin.com/in/aditya-singh-671a592b6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://adishiv9494.github.io/Portfolio/">
+  <a href="https://adishiv9494.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:aadityasingh.knp@gmail.com">
+  <a href="mailto:aadityasingh.knp@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/u/Adishiv9494/">
+  <a href="https://leetcode.com/u/Adishiv9494/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
@@ -62,10 +61,9 @@
 **Fun Fact:** I can debug code in my dreams! 💭
 
     </td>
-    
     <td width="40%">
       <p align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
       </p>
     </td>
   </tr>
@@ -78,16 +76,18 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=30,0d0d0d,1a1a2e&title_color=ff7e5f&icon_color=feb47b" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="45%" />
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adishiv9494&theme=radical&hide_border=true&background=1a1a2e&stroke=2d4059&ring=ff7e5f&fire=ff7e5f" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adishiv9494&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+
+<br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adishiv9494&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff7e5f&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adishiv9494&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adishiv9494&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adishiv9494&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="45%" />
 
 </div>
 
@@ -142,31 +142,82 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph & Trophies
 
-<p align="center">
-  <!-- GitHub Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Adishiv9494/Adishiv9494/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adishiv9494&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-
-
-##📫 Connect With Me
-
-<p align="center"> <a href="https://github.com/Adishiv9494"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/aditya-singh-671a592b6"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://adishiv9494.github.io/Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /> </a> <a href="mailto:aadityasingh.knp@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://twitter.com"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> </p>
-💬 Quote of the Day
-"First, solve the problem. Then, write the code." – John Johnson
-
-⭐ Support
-<p align="center"> If you like my projects, consider giving them a star! ⭐ <br/> <br/> <a href="https://github.com/Adishiv9494?tab=repositories"> <img src="https://img.shields.io/badge/Explore_All_Projects-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /> </a> </p>
 <div align="center">
+
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Adishiv9494/Adishiv9494/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adishiv9494&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Adishiv9494" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-singh-671a592b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://adishiv9494.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:aadityasingh.knp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+## ⭐ Support
+
+<p align="center">
+  If you like my projects, consider giving them a star! ⭐
+  <br/>
+  <br/>
+  <a href="https://github.com/Adishiv9494?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🎯 Current Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-2196F3?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true" alt="Footer" />
+</p>
+
+<p align="center">
+  Made with ❤️ by <b>Aditya Singh</b>
+  <br/>
+  📅 Last Updated: December 2023
+</p>
+
+</div>
