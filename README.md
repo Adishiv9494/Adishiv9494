@@ -112,7 +112,7 @@ E-commerce Marketplace	Full-featured online marketplace	MERN, Firebase, AWS
 Portfolio Website	Personal portfolio showcasing projects	HTML, CSS, JS
 MERN Stack Apps	Various full-stack applications	React, Node.js, MongoDB
 </div>
-📫 Connect With Me
+📫 **Connect With Me**
 <div align="center">
 <a href="https://github.com/Adishiv9494">
       <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub">
