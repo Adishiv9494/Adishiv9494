@@ -99,7 +99,7 @@
 
 <div align="center">
   <!-- Snake Animation (Requires GitHub Action setup) -->
-  <img src="raw.githubusercontent.com<Adishiv9494>/<Adishiv9494>/output/github-contribution-grid-snake.svg" alt="Snake animation that eats GitHub contributions" />
+  <img src="raw.githubusercontent.com<USERNAME>/<Adishiv9494>/output/github-contribution-grid-snake.svg" alt="Snake animation that eats GitHub contributions" />
 </div>
 
 ## 📂 Featured Projects
@@ -113,11 +113,18 @@ MERN Stack Apps	Various full-stack applications	React, Node.js, MongoDB
 </div>
 📫 Connect With Me
 <div align="center">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="badge"/>
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
+<a href="https://github.com/Adishiv9494">
+      <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/aditya-singh-671a592b6">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://adishiv9494.github.io/Portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" alt="Portfolio">
+    </a>
+    <a href="mailto:aadityasingh.knp@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    </a>
 </div>
 <div align="center">
 ⭐️ Support My Work
