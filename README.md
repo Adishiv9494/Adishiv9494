@@ -5,7 +5,7 @@
 
 <!-- Running Text Animation with Multiple Effects -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=FF4081&center=true&vCenter=true&width=800&height=70&lines=Hii!+guys+👋;I'm+Aditya+Singh;Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=font=Dancing+Script&weight=600&size=32&duration=3000&pause=500&color=FF4081&center=true&vCenter=true&width=800&height=70&lines=Hii!+guys+👋;I'm+Aditya+Singh;Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
 </p>
 
 <!-- Dynamic Typing Animation -->
