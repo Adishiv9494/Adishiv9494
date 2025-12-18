@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=50&animation=twinkling&desc=Full-Stack%20Developer&descSize=20&descAlignY=90" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=50&animation=twinkling&desc=Full-Stack%20Developer&descSize=20&descAlignY=90" alt="Header" />
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
