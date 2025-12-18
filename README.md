@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=50&animation=twinkling&desc=Full-Stack%20Developer&descSize=20&descAlignY=90" alt="Header" />
+<!-- Animated Header with Stylish Font and Effects -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=50&animation=twinkling&desc=Full-Stack%20Developer&descSize=20&descAlignY=90&fontColor=ffffff&reversal=true&stroke=000000&strokeWidth=2&rotation=0" alt="Header" />
+
+<!-- Running Text Animation with Multiple Effects -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=FF4081&center=true&vCenter=true&width=800&height=70&lines=Hii!+guys+👋;I'm+Aditya+Singh;Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
+</p>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
