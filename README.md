@@ -124,9 +124,8 @@
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00A4EF?style=for-the-badge&logo=machine-learning&logoColor=white)
-
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🚀 Featured Projects
 
