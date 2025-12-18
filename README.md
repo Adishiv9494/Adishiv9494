@@ -1,36 +1,42 @@
 <div align="center">
 
-<!-- Animated Header with Stylish Font and Effects -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Aditya%20Singh&fontSize=60&fontAlignY=50&animation=twinkling&desc=Full-Stack%20Developer&descSize=20&descAlignY=90&fontColor=ffffff&reversal=true&stroke=000000&strokeWidth=2&rotation=0" alt="Header" />
+<!-- Animated Header with Gradient Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=25:40E0D0,50:FF8C00,100:FF0080&height=200&section=header&text=Aditya%20Singh&fontSize=70&fontAlignY=30&animation=fadeIn&desc=Full-Stack%20Developer%20|%20MERN%20Expert&descSize=24&descAlignY=75&fontColor=ffffff&stroke=000000&strokeWidth=3&rotation=0" alt="Header" />
 
-<!-- Running Text Animation with Multiple Effects -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=font=Dancing+Script&weight=600&size=32&duration=3000&pause=500&color=FF4081&center=true&vCenter=true&width=800&height=70&lines=Hii!+guys+👋;I'm+Aditya+Singh;Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
-</p>
+<!-- Glowing Text with Multiple Effects -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=850&height=70&lines=👋+Hello+World!+I'm+Aditya+Singh;🚀+Full-Stack+Developer+Specializing+in+MERN;💡+AI+%26+ML+Enthusiast+Building+Smart+Solutions;⚡+Problem+Solver+%7C+Clean+Code+Advocate;🌱+Always+Learning+%26+Exploring+New+Technologies" alt="Typing SVG" />
 
-<!-- Dynamic Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+World+👋;I'm+Aditya+Singh,Full-Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
+<br/>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://github.com/Adishiv9494">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<!-- Animated Social Badges with Hover Effects -->
+<div align="center">
+  <a href="https://github.com/Adishiv9494" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717&link=https://github.com/Adishiv9494" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-singh-671a592b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aditya-singh-671a592b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://adishiv9494.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://adishiv9494.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B&color=FF6B6B" alt="Portfolio" />
   </a>
-  <a href="mailto:aadityasingh.knp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:aadityasingh.knp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/u/Adishiv9494/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://leetcode.com/u/Adishiv9494/" target="_blank">
+    <img src="https://img.shields.io/badge/💻_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=FFA116" alt="LeetCode" />
   </a>
-</p>
+  <a href="https://github.com/Adishiv9494?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Projects-6E5494?style=for-the-badge&logo=github&logoColor=white&labelColor=6E5494&color=6E5494" alt="Projects" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://raw.githubusercontent.com/Adishiv9494/Adishiv9494/main/assets/line.gif" width="100%" height="3px" />
+
+</div>
 
 <!-- Stats Cards -->
 <p align="center">
