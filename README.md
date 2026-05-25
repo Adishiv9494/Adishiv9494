@@ -86,7 +86,7 @@
 ## Streak Stats
 <div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Adishiv9494&theme=radical)
-
+</div>
 ## Activity Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adishiv9494)
