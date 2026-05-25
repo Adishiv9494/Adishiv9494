@@ -81,7 +81,7 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical)
 
-
+<div align="center">
 ---
 ## Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Adishiv9494&theme=radical)
