@@ -82,20 +82,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical)
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=30,0d0d0d,1a1a2e&title_color=ff7e5f&icon_color=feb47b" alt="GitHub Stats" width="48%" />
-
-<!-- GitHub Streak Stats (Corrected URL) -->
-<img src="https://github-readme-streak-stats.vercel.app/?user=Adishiv9494&theme=radical&hide_border=true&background=1a1a2e&stroke=2d4059&ring=ff7e5f&fire=ff7e5f" alt="GitHub Streak" width="48%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adishiv9494&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff7e5f&langs_count=8" alt="Top Languages" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adishiv9494&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="Activity Graph" />
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
