@@ -76,7 +76,7 @@
 ---
 ## Trophies 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adishiv9494&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adishiv9494&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Adishiv9494&show_icons=true&theme=radical)
